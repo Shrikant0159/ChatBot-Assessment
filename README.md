@@ -1,6 +1,8 @@
 # ChatBot-Assessment
 This is a AI based chatbot. It helps you to search a specific data and give the output.
-
+To Run this code---
+Step 1 you need to install required packages.
+Step 2- To run the code there is exp to learn more about it 
 Exp.
 Chatbot: Hello! I'm here to help you find technical courses.
 You: yes
